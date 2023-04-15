@@ -1,0 +1,57 @@
+#navcolor{
+    backdrop-filter: blur(10px);
+}
+.background{
+    position: absolute;
+    width: 814px;
+    height: 661px;
+    left: -318px;
+    top: -258px;
+
+    background: linear-gradient(153.91deg, #453CC9 57.82%, rgba(34, 175, 241, 0) 122.45%);
+    border-radius: 50%;
+}
+.repair{
+    position: absolute;
+    width: 100%;
+}
+.btn_custom{
+    background-color: #74CC14;
+    border-color: #74B62C;
+    background: #74CC14;
+    color: black;
+    width: 100px;
+    height: 40px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+.btn_custom:hover,.btn_custom:focus,.btn_custom.focus{
+    background-color: #74B62C;
+    border-color: #74B62C;
+    background: #74B62C;
+    color: black;
+    width: 100px;
+    height: 40px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+.btn_custom_no{
+    background-color: #ED2020;
+    border-color: #FF0000;
+    background: #ED2020;
+    color: black;
+    width: 100px;
+    height: 40px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+.btn_custom_no:hover,.btn_custom_no:focus,.btn_custom_no.focus{
+    background-color: #FF0000;
+    border-color: #FF0000;
+    background: #FF0000;
+    color: black;
+    width: 100px;
+    height: 40px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
