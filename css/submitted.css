@@ -1,0 +1,23 @@
+#navcolor{
+    backdrop-filter: blur(10px);
+}
+.background{
+    position: absolute;
+    width: 814px;
+    height: 661px;
+    left: -318px;
+    top: -258px;
+
+    background: linear-gradient(153.91deg, #453CC9 57.82%, rgba(34, 175, 241, 0) 122.45%);
+    border-radius: 50%;
+}
+.container2 {
+    margin: 0 auto;
+    margin-top: 24rem;
+    max-width: 48rem;
+    width: 90%;
+}
+.repair{
+    position: absolute;
+    width: 100%;
+}
